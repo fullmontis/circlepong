@@ -14,4 +14,4 @@ can be compiled to Lua.
 ## Download
 
 You can find a link to a working version of the game and more information at
-http://fullmontis.tumblr.com/games#circlepong
+http://fullmontis.tumblr.com/games#cpong
