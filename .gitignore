@@ -1,0 +1,7 @@
+*.bat
+*.png
+*.dll
+*.exe
+*~
+*.lua
+*.love
